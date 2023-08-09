@@ -63,7 +63,7 @@
     "stylelint": "^14.0.0",
     "stylelint-config-css-modules": "^2.2.0",
     "stylelint-config-recommended-scss": "^5.0.0",
-    "stylelint-scss": "^4.0.0",
+    "stylelint-scss": "^5.1.0",
     "svg-sprite-loader": "^6.0.10",
     "svg-transform-loader": "^2.0.13",
     "svgo-loader": "^3.0.0",
